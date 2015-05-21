@@ -1,6 +1,6 @@
 # gitskills
 
-this is master and dev branch!!
+this is yinjian branch!!
 
 
 	
