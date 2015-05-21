@@ -1,6 +1,6 @@
 # gitskills
 
-this is yinjian branch!!
+this is yj branch!!
 
 
 	
